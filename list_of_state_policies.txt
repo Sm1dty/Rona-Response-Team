@@ -1,0 +1,71 @@
+'no measures, school closing'
+
+'recommend closing or all schools open with alterations resulting in significant differences compared to non-Covid-19 operations'
+
+'require closing (only some levels or categories, eg just high school, or just public schools)'
+
+'require closing all levels, school closing'
+
+'no measures, workplace closing'
+
+'recommend closing (or recommend work from home)'
+
+'require closing (or work from home) for some sectors or categories of workers')
+
+'require closing (or work from home) for all-but-essential workplaces (eg grocery stores, doctors)'
+
+'no measures, cancel public events'
+
+'recommend cancelling public events'
+
+'require cancelling public events'
+
+'no restrictions on gatherings'                                                                                              
+'restrictions on very large gatherings (the limit is above 1000 people)'                                                                                              
+'restrictions on gatherings between 101-1000 people'                                                                                              
+'restrictions on gatherings between 11-100 people'                                                                                             
+'restrictions on gatherings of 10 people or less'
+
+'no measures for stay at home requirement'
+
+'recommend not leaving house'
+
+'require not leaving house with exceptions for daily exercise, grocery shopping, and "essential" trips'
+
+'require not leaving house with minimal exceptions (eg allowed to leave once a week, or only one person can leave at a time, etc)'
+
+'no measures on restrictions on internal movement'
+
+'recommend not to travel between regions/cities'
+
+'internal movement restrictions in place'
+
+'no restrictions on international travel'
+
+'screening arrivals on international travel'
+
+'quarantine arrivals from some or all regions for international travel'
+
+'ban arrivals from some regions for international travel'
+
+'ban on all regions or total border closure'
+
+'no Covid-19 public information campaign'
+
+'public officials urging caution about Covid-19'
+
+'coordinated public information campaign (eg across traditional and social media)'
+
+'no testing policy'
+
+'only those who both (a) have symptoms AND (b) meet specific criteria (eg key workers, admitted to hospital, came into contact with a known case, returned from overseas)'
+
+'testing of anyone showing Covid-19 symptoms'
+
+'open public testing (eg "drive through" testing available to asymptomatic people)'
+
+'no contact tracing'
+
+'limited contact tracing; not done for all cases'
+
+'comprehensive contact tracing; done for all identified cases'
