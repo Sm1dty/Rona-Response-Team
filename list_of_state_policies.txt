@@ -1,3 +1,5 @@
+SCHOOLS:
+
 'no measures, school closing'
 
 'recommend closing or all schools open with alterations resulting in significant differences compared to non-Covid-19 operations'
@@ -5,6 +7,9 @@
 'require closing (only some levels or categories, eg just high school, or just public schools)'
 
 'require closing all levels, school closing'
+
+
+WORK:
 
 'no measures, workplace closing'
 
@@ -14,17 +19,25 @@
 
 'require closing (or work from home) for all-but-essential workplaces (eg grocery stores, doctors)'
 
+EVENTS:
+
 'no measures, cancel public events'
 
 'recommend cancelling public events'
 
 'require cancelling public events'
 
+
+GATHERINGS:
+
 'no restrictions on gatherings'                                                                                              
 'restrictions on very large gatherings (the limit is above 1000 people)'                                                                                              
 'restrictions on gatherings between 101-1000 people'                                                                                              
 'restrictions on gatherings between 11-100 people'                                                                                             
 'restrictions on gatherings of 10 people or less'
+
+
+STAY AT HOME:
 
 'no measures for stay at home requirement'
 
@@ -34,11 +47,17 @@
 
 'require not leaving house with minimal exceptions (eg allowed to leave once a week, or only one person can leave at a time, etc)'
 
+
+INTERNAL MOVEMENT:
+
 'no measures on restrictions on internal movement'
 
 'recommend not to travel between regions/cities'
 
 'internal movement restrictions in place'
+
+
+INTERNATIONAL TRAVEL:
 
 'no restrictions on international travel'
 
@@ -50,11 +69,16 @@
 
 'ban on all regions or total border closure'
 
+
+PUBLIC INFORMATION:
+
 'no Covid-19 public information campaign'
 
 'public officials urging caution about Covid-19'
 
 'coordinated public information campaign (eg across traditional and social media)'
+
+TESTING POLICY:
 
 'no testing policy'
 
